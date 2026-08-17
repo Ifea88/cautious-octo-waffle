@@ -1,0 +1,22 @@
+# Compiled binaries/executables
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+cautious-octo-waffle    # Ignores a local compiled binary with your folder's name
+
+# Architecture specific extensions
+*.5
+*.6
+*.8
+
+# Test coverage artifacts
+*.out
+*.test
+*.prof
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
